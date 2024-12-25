@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Capstone-Project/static/css/main.394eec17.css",
+    "main.js": "/Capstone-Project/static/js/main.a29fa602.js",
+    "static/js/787.a2f6b77c.chunk.js": "/Capstone-Project/static/js/787.a2f6b77c.chunk.js",
+    "static/media/restauranfood.jpg": "/Capstone-Project/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant 1.jpeg": "/Capstone-Project/static/media/restaurant 1.71c9735a950e05b2d47b.jpeg",
+    "static/media/logo-white.png": "/Capstone-Project/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/Logo.svg": "/Capstone-Project/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "index.html": "/Capstone-Project/index.html",
+    "static/media/delivery.svg": "/Capstone-Project/static/media/delivery.51c0da9db08aea9794adf2fd86bd007a.svg",
+    "static/media/star.svg": "/Capstone-Project/static/media/star.d2bfb195dd145c54fb07c2d9f67dc4b1.svg",
+    "static/media/hamburger.svg": "/Capstone-Project/static/media/hamburger.0da6f67ced800ab909f63d5144de37ee.svg",
+    "main.394eec17.css.map": "/Capstone-Project/static/css/main.394eec17.css.map",
+    "main.a29fa602.js.map": "/Capstone-Project/static/js/main.a29fa602.js.map",
+    "787.a2f6b77c.chunk.js.map": "/Capstone-Project/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394eec17.css",
+    "static/js/main.a29fa602.js"
+  ]
+}
