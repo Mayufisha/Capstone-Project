@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
-import Image from "../../../assets/restauranfood.jpg";
-import ImageRestaurant from "../../../assets/restaurant.jpg";
+
+import ImageRestaurant from "../../../assets/restaurant 1.jpeg";
 
 const About = () => {
   return (
@@ -10,28 +10,17 @@ const About = () => {
         <h1 className="about-title">Little Lemon</h1>
         <h2 className="about-subtitle">Chicago</h2>
         <p className="about-description">
-          Nestled in the heart of bustling Chicago, Little Lemon is where modern
-          flair meets cozy nostalgia. Our diverse, artisanal menu, featuring
-          delectable bruschettas, succulent burgers, and refreshing Greek
-          salads, is a testament to our belief that food is an art. Crafted by
-          expert chefs with locally-sourced ingredients, our dishes not only
-          delight the palate but nourish the soul. Whether you're seeking a
-          romantic dinner, a family meal, or a relaxed atmosphere with friends,
-          Little Lemon is your ideal culinary destination. Find us in the heart
-          of Chicago for an unforgettable experience.
+        In the lively heart of Chicago, Little Lemon brings together modern charm and nostalgic warmth. 
+        Our menu features a variety of delicious options, including savory bruschettas, juicy burgers, and crisp Greek salads. 
+        Every dish is carefully prepared by talented chefs using fresh, locally-sourced ingredients to ensure a perfect balance of flavor and quality. 
+        Whether you’re enjoying a romantic dinner, sharing a meal with family, or catching up with friends, Little Lemon offers a welcoming atmosphere and an unforgettable dining experience. 
+        Visit us in Chicago to discover the joy of exceptional food.
         </p>
       </div>
 
       <img
         className="about-image-bruchetta"
         src={ImageRestaurant}
-        alt="Restarurant food"
-        height={200}
-        width={200}
-      />
-      <img
-        className="about-image-restaurant"
-        src={Image}
         alt="Restarurant food"
         height={200}
         width={200}
