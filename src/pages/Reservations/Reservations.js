@@ -44,7 +44,7 @@ const Reservations = () => {
   return (
     <div data-testid="reservations-component" className="reservation">
       <div className="reservation-card">
-        <h1 className="reservation-title">Table reservation</h1>
+        <h1 className="reservation-title">Reserve A Table</h1>
         <BookingForm
           availableTimes={availableTimes}
           dispatchOnDateChange={dispatchOnDateChange}
