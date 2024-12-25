@@ -93,7 +93,7 @@ const BookingForm = ({
         </select>
       </div>
       <div className="reservation-button">
-        <Button title="Book a table" type="submit" />
+        <Button title="Reserve" type="submit" />
       </div>
     </form>
   );
