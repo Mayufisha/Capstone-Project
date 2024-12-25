@@ -37,7 +37,7 @@ const Testimonials = () => {
     <div className="testimonial-background">
       <div className="testimonials">
         <div className="testimonials-container">
-          <h1 className="testimonial-title">Testimonials</h1>
+          <h1 className="testimonial-title">Customer Feedback</h1>
         </div>
 
         <div className="testimonials-list">
