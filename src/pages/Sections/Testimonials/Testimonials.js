@@ -5,25 +5,25 @@ import TestimonialCard from "../../../components/TestimonialCard/TestimonialCard
 const testimonials = [
   {
     id: 1,
-    author: "Isabella Montgomery",
+    author: "Lisa Montgomery",
     description:
       "Little Lemon's Bruschetta is a symphony of flavors; perfectly crispy bread coupled with the freshest tomatoes.",
     image:
-      "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3763188.jpg&fm=jpg",
+      "https://news.cornell.edu/sites/default/files/styles/breakout/public/2020-05/0521_abebegates.jpg?itok=OdW8otpB",
     rating: 5,
   },
   {
     id: 2,
-    author: "Alexander Thompson",
+    author: "Jhon McAlester",
     description:
       "The burger at Little Lemon was a taste revelation with its juicy, perfectly cooked meat and harmonious ingredient pairing.",
     image:
-      "https://www.irreverentgent.com/wp-content/uploads/2018/03/Awesome-Profile-Pictures-for-Guys-look-away2.jpg",
+      "https://t4.ftcdn.net/jpg/03/26/98/51/360_F_326985142_1aaKcEjMQW6ULp6oI9MYuv8lN9f8sFmj.jpg",
     rating: 5,
   },
   {
     id: 3,
-    author: "Olivia Jenkins",
+    author: "Lidia Thompson",
     description:
       "The Greek Salad at Little Lemon was delightfully fresh and flavorful, with a high-quality dressing. ",
     image:
