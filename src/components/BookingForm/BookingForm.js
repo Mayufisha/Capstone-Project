@@ -64,7 +64,7 @@ const BookingForm = ({
       </div>
       <div className="reservation-container">
         <label htmlFor="people" className="containter-item-title">
-          Number of people
+          Number of guests
         </label>
         <input
           type="number"
