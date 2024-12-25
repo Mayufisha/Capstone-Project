@@ -17,17 +17,17 @@ const Footer = () => {
           <Link className="footer-item" to="/order-online">Order Online</Link>
           <Link className="footer-item" to="/login">Login</Link>
         </div>
-        <div className="footer-contact">
+       <div className="footer-contact">
           <p className="footer-title"> CONTACT</p>
-          <p className="footer-item"> 123 Citrus Lane</p>
-          <p className="footer-item"> 123-456-7890</p>
-          <p className="footer-item"> little.lemon@lemon.com</p>
+          <p className="footer-item"> 1234 Mediterranean Lane, Chicago, IL 60601 </p>
+          <p className="footer-item"> (555) 123-4567</p>
+          <p className="footer-item"> info@littlelemonrestaurant.com</p>
         </div>
         <div className="footer-social">
           <p className="footer-title"> SOCIAL MEDIA LINKS</p>
-          <a className="footer-item" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a>
-          <a className="footer-item" href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
-          <a className="footer-item" href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
+          <a className="footer-item" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">Facebook:@LittleLemonChi </a>
+          <a className="footer-item" href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram: Little Lemon Chicago</a>
+          <a className="footer-item" href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">Twitter: @Little-Lemon Chicago</a>
         </div>
       </div>
     </footer>
